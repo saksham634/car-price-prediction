@@ -1,10 +1,6 @@
 # Car Price Prediction
 
-This project contains all the code necessary to reproduce the selling car prediction price using Python3, JupyterNotebook. 
-
-In this study we employ a small dataset collection using data on the prices of other cars and their characteristics to build car price prediction models. 
-The output given models will help us determine the most reasonable car selling price. 
-
+This project is based on python and it's dependent libraries which help us to predict selling of cars and its selling value.
 Dependency Libraries:
 ```
 * Python 3
